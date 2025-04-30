@@ -4,3 +4,5 @@ scikit-learn
 tensorflow 
 os
 shutil 
+stable-baselines3
+openpyxl
