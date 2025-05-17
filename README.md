@@ -73,7 +73,7 @@ Using image classification, our model predicts the material type of waste items.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/what-the-waste.git
+   git clone https://github.com/prmuwanga/what-the-waste.git
    cd what-the-waste
    pip install -r requirements.txt
 
